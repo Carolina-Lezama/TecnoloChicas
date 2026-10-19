@@ -97,7 +97,7 @@ TABLE nombre_tabla FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY 
 -- CREAR Y USAR BASE DE DATOS
 CREATE SCHEMA caro_prueba_estudiantes;
 
-USE mariareyes;
+USE caro_prueba_estudiantes;
 
 SELECT *
 FROM
